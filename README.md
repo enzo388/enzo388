@@ -1,5 +1,1 @@
-## 🔥 Última actividad en GitLab
-
-<!-- GITLAB_ACTIVITY:START -->
-_Aquí se inyecta la data automáticamente_
-<!-- GITLAB_ACTIVITY:END -->
+![Actividad en GitLab](shot.screenshotapi.net/screenshot?token=X47P4J5-H33MBRW-HR9YQCY-QNM2TGJ&url=https://dev.fourcapital.com.ar/enzo388&output=image&file_type=png)
