@@ -1,1 +1,1 @@
-![Actividad en GitLab](https://api.apiflash.com/v1/urltoimage?access_key=b5abb3eb149b44a5af293fb9776f1293&url=https://dev.fourcapital.com.ar/enzo388&wait_until=network_idle&delay=5000&full_page=true&fresh=true)
+![Actividad en GitLab](https://shot.screenshotapi.net/screenshot?token=X47P4J5-H33MBRW-HR9YQCY-QNM2TGJ&url=https://dev.fourcapital.com.ar/enzo388&output=image&file_type=png&wait_for=body&delay=5000&full_page=true)
