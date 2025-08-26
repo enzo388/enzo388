@@ -1,1 +1,5 @@
-![Actividad en GitLab](https://shot.screenshotapi.net/screenshot?token=X47P4J5-H33MBRW-HR9YQCY-QNM2TGJ&url=https://dev.fourcapital.com.ar/enzo388&output=image&file_type=png&wait_for=body&delay=5000&full_page=true)
+## 🔥 Última actividad en GitLab
+
+<!-- GITLAB_ACTIVITY:START -->
+_Aquí se inyecta la data automáticamente_
+<!-- GITLAB_ACTIVITY:END -->
